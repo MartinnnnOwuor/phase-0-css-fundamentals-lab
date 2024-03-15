@@ -3,3 +3,58 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+
+  color: red;
+}
+
+header{
+
+  text-align: center;
+  background: greenyellow;
+}
+
+sector{
+
+  display: flex;
+  justify-content: center;
+}
+
+a{
+
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+figcaption{
+
+  font-size: small;
+  text-align: center;
+}
+
+#featured-property p{
+
+  width: 800px;
+  text-align: center;
+}
+
+#details div{
+
+float: left;
+}
+
+div{
+
+  background: red;
+  text-align: center;
+  width: 25%;
+}
+
+
+  
+  
+  
+
+
+
